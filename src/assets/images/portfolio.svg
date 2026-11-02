@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" aria-label="Personal Portfolio preview placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f1a30"/><stop offset="1" stop-color="#1a2445"/></linearGradient>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4fe0cf"/><stop offset="1" stop-color="#8b93ff"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <rect x="40" y="36" width="720" height="428" rx="16" fill="#0b1324" stroke="#ffffff" stroke-opacity=".14"/>
+  <path d="M40 52a16 16 0 0 1 16-16h688a16 16 0 0 1 16 16v28H40z" fill="#141f3b"/>
+  <circle cx="66" cy="58" r="6" fill="#ff6b6b"/><circle cx="86" cy="58" r="6" fill="#ffd166"/><circle cx="106" cy="58" r="6" fill="#4fe0cf"/>
+  <rect x="140" y="48" width="360" height="20" rx="10" fill="#0b1324"/>
+  <text x="64" y="128" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#e9eef8">Personal Portfolio</text>
+  <rect x="64" y="160" width="300" height="18" rx="5" fill="#ffffff" opacity=".55"/><rect x="64" y="192" width="240" height="18" rx="5" fill="#ffffff" opacity=".55"/><rect x="64" y="232" width="320" height="9" rx="5" fill="#ffffff" opacity=".25"/><rect x="64" y="252" width="280" height="9" rx="5" fill="#ffffff" opacity=".25"/><rect x="64" y="284" width="120" height="36" rx="18" fill="url(#ac)"/><rect x="196" y="284" width="120" height="36" rx="18" fill="none" stroke="#ffffff" stroke-opacity=".3" stroke-width="2"/><circle cx="580" cy="230" r="86" fill="url(#ac)" opacity=".9"/><circle cx="580" cy="212" r="26" fill="#0b1324" opacity=".55"/><path d="M528 296c0-32 24-50 52-50s52 18 52 50z" fill="#0b1324" opacity=".55"/><rect x="64" y="350" width="200" height="92" rx="14" fill="#ffffff" opacity=".05" stroke="#ffffff" stroke-opacity=".1"/><rect x="284" y="350" width="200" height="92" rx="14" fill="#ffffff" opacity=".05" stroke="#ffffff" stroke-opacity=".1"/><rect x="504" y="350" width="216" height="92" rx="14" fill="#ffffff" opacity=".05" stroke="#ffffff" stroke-opacity=".1"/><rect x="84" y="376" width="90" height="10" rx="5" fill="#ffffff" opacity=".4"/><rect x="304" y="376" width="90" height="10" rx="5" fill="#ffffff" opacity=".4"/><rect x="524" y="376" width="90" height="10" rx="5" fill="#ffffff" opacity=".4"/><rect x="84" y="402" width="140" height="8" rx="5" fill="#ffffff" opacity=".25"/><rect x="304" y="402" width="120" height="8" rx="5" fill="#ffffff" opacity=".25"/><rect x="524" y="402" width="150" height="8" rx="5" fill="#ffffff" opacity=".25"/>
+</svg>
