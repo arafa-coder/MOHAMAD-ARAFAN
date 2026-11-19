@@ -43,8 +43,8 @@ export const profile = {
   social: {
     github: "https://github.com/arafa-coder",
     linkedin: "https://www.linkedin.com/in/arafan",
-    facebook: "https://www.facebook.com/your-username",
-    instagram: "https://www.instagram.com/your-username",
+    facebook: "https://www.facebook.com/arafa.aneez?mibextid=ZbWKwL",
+    instagram: "https://www.instagram.com/i_am_arafan?rpxt=MXdlMGVxc2FpNGFsYQ==",
   },
 
   // TODO: the two counters below are placeholders. "Projects Completed" and
